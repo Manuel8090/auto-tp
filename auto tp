@@ -8,24 +8,34 @@ while wait(.5) do
         wait(.5)
         keypress(0xBF)--/
         wait()
-        keypress(0x4A)--j
+        keypress(0x54)--t 
         wait()
-        keypress(0x55)--u
+        keypress(0x45)--e
         wait()
-        keypress(0x41)--a
+        keypress(0x52)--r
         wait()
-        keypress(0x4E)--n
+        keypress(0x52)--r
         wait()
-        keypress(0x31)--1
+        keypress(0x45)--e
         wait()
-        keypress(0x30)--0
+        keypress(0x4C)--l
         wait()
-        keypress(0x30)--0
+        keypress(0x4C)--l
         wait()
         keypress(0x4D)--m
         wait()
+        keypress(0x4F)--o
+        wait()
+        keypress(0x4E)--n
+        wait()
+        keypress(0x45)--e
+	wait()
+        keypress(0x59)--y
+        wait()
         keypress(0x31)--1
         wait()
-        keypress(0x0D)--enter 
+        keypress(0x33)--3
+	wait()
+        keypress()--enter 
 	    wait()
     end
