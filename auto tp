@@ -35,7 +35,7 @@ while wait(.5) do
         keypress(0x31)--1
         wait()
         keypress(0x33)--3
-	 wait()
+	wait()
         keypress(0x0D)--enter 
-	 wait()
-    end
+	wait()
+end
